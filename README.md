@@ -27,7 +27,9 @@ The Sample Superstore dataset contains transactional data for a fictional retail
 3. **Click on a Category** to filter the other charts and KPIs based on that selection.
 4. **Hide/Show Filters** using the toggle button to optimize the view.
 5. **Click on the Company Logo** to access the dashboard published on Tableau Public.
-
+  
+![Screenshot 2024-10-10 203646](https://github.com/user-attachments/assets/5ba46bb3-66ee-4301-b637-e397db731146)
+  
 ## Files in the Repository
 
 - **Superstore_Dashboard.twbx**: The Tableau packaged workbook containing the dashboard.
